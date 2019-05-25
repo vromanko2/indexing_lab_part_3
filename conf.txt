@@ -1,0 +1,5 @@
+/Users/veronikaromanko/Desktop/test/1/1
+res_by_a.txt
+res_by_n.txt
+8
+8
